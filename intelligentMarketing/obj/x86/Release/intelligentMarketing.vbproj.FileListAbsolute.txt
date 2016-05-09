@@ -1,0 +1,816 @@
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Controls.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Data.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Data.Forms.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Serialization.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Topology.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\MdiTabControl.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Extensions.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Modeling.Forms.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Controls.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Controls.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Data.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Data.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Data.Forms.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Data.Forms.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Serialization.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Serialization.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Topology.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Topology.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Extensions.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Extensions.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Modeling.Forms.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Modeling.Forms.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\Excel.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Release\Excel.pdb
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.dll
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Guest\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\TRIUMPH\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Proto\Desktop\iM Bespoke SWL\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Proto\Desktop\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Controls.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Data.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Data.Forms.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Serialization.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Topology.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\Excel.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\MdiTabControl.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\MPowerPayments.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\iM Standard\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Controls.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Data.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Data.Forms.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Serialization.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Topology.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\Excel.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\MdiTabControl.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\MPowerPayments.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\New folder (2)\update\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Proto\Desktop\intelligentMarketing (2)\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\MdiTabControl.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\im 6_30\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\2_7_14\iM Standard\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.LIEdit.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\16_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Proto\Desktop\iM Standard\IM UPDATES\31_7_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\11_11_14\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\BruTile.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\DotSpatial.Controls.BruTileLayer.dll
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\Stylish\Documents\photizo\Adroit\iM\updates\12_11_14\intelligentMarketing\bin\Release\MapWindow.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Projections.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Projections.xml
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Projections.Forms.xml
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Symbology.xml
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\DotSpatial.Symbology.Forms.xml
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\Proto\Desktop\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\kojo\Desktop\Intelligent Marketing\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\kojo\Desktop\Intelligent Marketing\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\Interop.VAccessLib.dll
+C:\Users\kojo\Desktop\Intelligent Marketing\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\kojo\Desktop\Intelligent Marketing\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\kojo\Desktop\Intelligent Marketing\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\kojo\Desktop\Intelligent Marketing\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\bin\Release\Newtonsoft.Json.dll
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Control_Panel.resources
+C:\Users\KBI USER 1\Desktop\Sam\Intelligent Marketing Latest\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\bin\Release\Newtonsoft.Json.dll
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Control_Panel.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\KBI USER 12\Documents\MapTech stuff\Intelligent Marketing Latest\intelligentMarketing\obj\x86\Release\RdlCompile.compiled
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\bin\Release\intelligentMarketing.exe.config
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.ResolveComReference.cache
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.exe
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.xml
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\bin\Release\intelligentMarketing.exe
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\bin\Release\intelligentMarketing.pdb
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\bin\Release\intelligentMarketing.xml
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\bin\Release\Newtonsoft.Json.dll
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbprojResolveAssemblyReference.cache
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Control_Panel.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form2.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.validation.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmDataValidation.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.frmEditTownName.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Locations_Data_Validation.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Number_Formatter.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.District_Drilll_Downvb.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.DistrictAnalysis.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.LI.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Login.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Resources.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Regional_Drill_Down.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Form1.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.settings.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.SMS_sender.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Sms.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.SWL_Customer_Dashboard.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.Pervasive_Connection.resources
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\intelligentMarketing.vbproj.GenerateResource.Cache
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\RdlCompile.cache
+C:\Users\KBI USER 12\Documents\Stylish\adroit document\Intelligent Marketing Adroit\intelligentMarketing\obj\x86\Release\RdlCompile.compiled

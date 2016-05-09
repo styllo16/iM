@@ -1,0 +1,20 @@
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\bin\Debug\ATSMS.dll
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\bin\Debug\ATSMS.pdb
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\bin\Debug\ATSMS.xml
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ATSMS.Resources.resources
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ResGen.read.1.tlog
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ResGen.write.1.tlog
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ATSMS.dll
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ATSMS.xml
+C:\Users\JEFFREY\Desktop\atsms\atsms\atsms\obj\Debug\ATSMS.pdb
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\bin\Debug\ATSMS.dll
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\bin\Debug\ATSMS.pdb
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\bin\Debug\ATSMS.xml
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ATSMS.Resources.resources
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ResGen.read.1.tlog
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ResGen.write.1.tlog
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ATSMS.dll
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ATSMS.xml
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\atsms\obj\Debug\ATSMS.pdb

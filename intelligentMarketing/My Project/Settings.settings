@@ -1,0 +1,207 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SMS_Templates" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;test1&lt;/string&gt;
+  &lt;string&gt;test2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SMS_Account_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trial Version</Value>
+    </Setting>
+    <Setting Name="SMS_Account_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SMS_Account_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SMS_Account_ProviderURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://121.241.242.114:8080/sendsms?username=</Value>
+    </Setting>
+    <Setting Name="Customer_Table_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contacts</Value>
+    </Setting>
+    <Setting Name="Customer_Field_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Company</Value>
+    </Setting>
+    <Setting Name="Customer_Contact_Field1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Telephone1</Value>
+    </Setting>
+    <Setting Name="Customer_Contact_Field2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Telephone2</Value>
+    </Setting>
+    <Setting Name="Customer_Balance_Table_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Accounts</Value>
+    </Setting>
+    <Setting Name="Customer_Balance_FieldName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Accountbalance</Value>
+    </Setting>
+    <Setting Name="Customer_Rep_Field_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Representative</Value>
+    </Setting>
+    <Setting Name="Customer_Location_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Town</Value>
+    </Setting>
+    <Setting Name="IsACCESS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IsSQLServer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SQLServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TRIUMPH-PC\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="SQLServerUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="MsACCESSFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">iM Dummy</Value>
+    </Setting>
+    <Setting Name="SQLServerUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SQL_InitialCatalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">swl9</Value>
+    </Setting>
+    <Setting Name="MsACCESSFilename_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\TRIUMPH\Documents\</Value>
+    </Setting>
+    <Setting Name="IntegratedSecurity" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SMS_SenderID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Customer_Code_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ID2</Value>
+    </Setting>
+    <Setting Name="Intelligent_Marketing_SchemaConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=Microsoft.ACE.OLEDB.12.0;Data Source="C:\Users\TRIUMPH\Documents\Intelligent Marketing Schema.accdb"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Data Source="C:\Users\TRIUMPH\Documents\Intelligent Marketing Schema.accdb"</Value>
+    </Setting>
+    <Setting Name="Email_Account_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Email_Account_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SMTP_server_Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="SMTP_server_Server_Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.mail.yahoo.com</Value>
+    </Setting>
+    <Setting Name="SMTP_server_Enable_SSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Email_Source" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kojo_samwoode@yahoo.com</Value>
+    </Setting>
+    <Setting Name="Customer_Email_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email</Value>
+    </Setting>
+    <Setting Name="Region_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Region</Value>
+    </Setting>
+    <Setting Name="District_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">District</Value>
+    </Setting>
+    <Setting Name="Voice_SMS_Account_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Voice_SMS_Account_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Voice_SMS_Audio_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Voice_SMS_Provider_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field7" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field8" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Custom_Field10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IS_PERVASIVE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PSQLSERVERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PSQLDatabase_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PSQLDatabase_UserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PSQLDatabase_UserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Contacts_Table_Name_Pastel" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Contacts_Field_Name_Pastel" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Customer_Sales_Archive" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BI_Customer_Accounts_Table" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BI_Customer_Accounts_Name_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BI_Customer_Accounts_Code_Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Error_log" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="iM_Authentication" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="URL_Input_Webform" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="URL_Output_Webform" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LicenseKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

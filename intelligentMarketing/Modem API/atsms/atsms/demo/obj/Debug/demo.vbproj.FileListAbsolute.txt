@@ -1,0 +1,28 @@
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\demo.exe
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\demo.xml
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\demo.pdb
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\bin\Debug\demo.exe
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\bin\Debug\demo.pdb
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\bin\Debug\demo.xml
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\bin\Debug\ATSMS.dll
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\bin\Debug\ATSMS.pdb
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\bin\Debug\ATSMS.xml
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\demo.Resources.resources
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\demo.TestATSMS.resources
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\ResGen.read.1.tlog
+C:\Users\JEFFREY\Desktop\atsms\atsms\demo\obj\Debug\ResGen.write.1.tlog
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\demo.exe
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\demo.xml
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\demo.pdb
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\bin\Debug\demo.exe
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\bin\Debug\demo.pdb
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\bin\Debug\demo.xml
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\bin\Debug\ATSMS.dll
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\bin\Debug\ATSMS.pdb
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\bin\Debug\ATSMS.xml
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\demo.Resources.resources
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\demo.TestATSMS.resources
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\ResGen.read.1.tlog
+C:\Users\TRIUMPH\Desktop\Modem API\atsms\atsms\demo\obj\Debug\ResGen.write.1.tlog

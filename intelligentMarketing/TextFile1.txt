@@ -1,0 +1,7 @@
+﻿  With f.ReportViewer1.LocalReport
+                    .ReportEmbeddedResource = "Total_Accounting_Suite.Test_Report.rdlc"
+                    .ReportPath = ""
+                    .DataSources.Clear()
+                    .DataSources.Add(New ReportDataSource("DataSet1", f.Debtors_Report_TableBindingSource))
+                    f.ReportViewer1.RefreshReport()
+                End With

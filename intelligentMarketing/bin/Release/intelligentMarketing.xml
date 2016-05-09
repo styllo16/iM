@@ -1,0 +1,885 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+intelligentMarketing
+</name>
+</assembly>
+<members>
+<member name="M:intelligentMarketing.LI.ShapefileAttribute">
+	<summary>
+ This sub uses to fill the shapefile attribute in the datagrid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.DisplayAttributeLabel(System.String)">
+	<summary>
+ sub that displays name of shape file attribute table selected
+ in the label lblAttributeName
+ </summary>
+	<param name="attributeName"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.Drill_Down_to_Region">
+	<summary>
+ This is the code that calls the drill down for each region selected
+ </summary>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.mPrimary_Click_1(System.Object,System.EventArgs)">
+	<summary>
+ Codes to add the JHS and Primary school enrollment data
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.Map1_DoubleClick(System.Object,System.EventArgs)">
+	<summary>
+ This calls the district analysis form when the map is doubleclicked
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.mBaseMap_ButtonClick(System.Object,System.EventArgs)">
+	<summary>
+ Adds base map on click
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.AddBaseMap(System.String,System.Boolean)">
+	<summary>
+ This  a sub that adds  on-line base map
+ </summary>
+	<param name="maptype">the type of map to display</param>
+	<param name="Add">whether to add a map or remove</param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.LI.ApplyPointLayerStyle(System.Int32,System.String)">
+	<summary>
+	</summary>
+	<param name="layerindex"></param>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.addons_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.analysis_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.attribute">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.attribute1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.attribute2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.bg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.BiLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.BiLogo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.BiLogo28x28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.BiLogo3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.BiLogo35x35">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.Close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.debLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.debLogo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.globe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.icon_error">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.layer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.li1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.li11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.li2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.LiLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.logo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.smsLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.smsLogo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.stats">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.SWL_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.sync">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:intelligentMarketing.My.Resources.Resources.system_config_services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:intelligentMarketing.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet.Basic_GraphDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet.Facts_and_FiguresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet.Basic_GraphRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet.Facts_and_FiguresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet.Basic_GraphRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet.Facts_and_FiguresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.Basic_GraphTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.Facts_and_FiguresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(intelligentMarketing.Intelligent_Marketing_SchemaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(intelligentMarketing.Intelligent_Marketing_SchemaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(intelligentMarketing.Intelligent_Marketing_SchemaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.UpdateAll(intelligentMarketing.Intelligent_Marketing_SchemaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:intelligentMarketing.Intelligent_Marketing_SchemaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:intelligentMarketing.m_LI.layerOpacity">
+	<summary>
+ Set the opacity of the layer to a value
+ </summary>
+	<value>value between 0-1</value>
+	<returns></returns>
+	<remarks>Eg. layerOpacity = 0.2</remarks>
+</member><member name="P:intelligentMarketing.m_LI.form_is_lunched">
+	<summary>
+ Gets or sets that the form is being lunched for the first time
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.IndexOfSelectedLayer">
+	<summary>
+ Gets or sets the index of the selected layer added to the map
+ </summary>
+	<value></value>
+	<returns>integer</returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.myPolygonLayer">
+	<summary>
+ this contains mappolygonlayer
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.myPointLayer">
+	<summary>
+ This contains MapPointLayer
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.Eastings">
+	<summary>
+ Easting value or latitude of point
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.Northings">
+	<summary>
+ Northing or longititude value of point
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.Town">
+	<summary>
+ Name of town
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.DistrictCode">
+	<summary>
+ District code
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:intelligentMarketing.m_LI.MapName">
+	<summary>
+ Shapefile name
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.m_LI.AddBaseMap(DotSpatial.Controls.Map,System.String,System.Boolean,System.Boolean)">
+	<summary>
+ This  a sub that adds  on-line base map
+ </summary>
+	<param name="maptype">the type of map to display</param>
+	<param name="Add">whether to add a map or remove</param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.m_LI.AddLocalMap(DotSpatial.Controls.Map,DotSpatial.Controls.Legend,System.String,System.Int16,System.Int16)">
+	<summary>
+ Add shapefile to the map
+ </summary>
+	<param name="Map">name of your map</param>
+	<param name="Legend">name of Legend</param>
+	<param name="shapeFileName">Name of shape file</param>
+	<param name="map_type">eg. MapType.District</param>
+	<param name="layer_type">eg. LayerType.point</param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.m_LI.ApplyPolygonLayerColour(DotSpatial.Controls.Map,DotSpatial.Controls.IMapPolygonLayer,System.Drawing.Color,System.Drawing.Color,System.Single)">
+	<summary>
+ Applys a colour to the polygon layer
+ </summary>
+	<param name="Map">name of map control</param>
+	<param name="PolygonLayer">name of polygon layer to apply colour</param>
+	<param name="LayerFillColor">Fill color. System.Drawing.Color</param>
+	<param name="LayerOutlineColor">Outline color. System.Drawing.Color</param>
+	<param name="Opacity">Transparency of the fill color. 0=transparent, 1=opaque. Single</param>
+	<remarks>This is a utility function for quickly applying colours and opacity to polygon layers</remarks>
+</member><member name="M:intelligentMarketing.m_LI.AddLabel(System.String,DotSpatial.Controls.IMapPolygonLayer)">
+	<summary>
+ Displays the labels of the selected layer
+ </summary>
+	<param name="LabelColumnName">the name of the column which contains the information to be displayed</param>
+	<param name="PolygonLayer">the subject polygon layer </param>
+	<remarks>this is only for polygons</remarks>
+</member><member name="M:intelligentMarketing.m_LI.ZoomToLayer(DotSpatial.Controls.Map,System.Int32)">
+	<summary>
+ Zoom to layer
+ </summary>
+	<param name="LayerIndex">index of layer </param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.m_LI.FindIndexOfSelectedLayer(DotSpatial.Controls.Map)">
+	<summary>
+ Determines the index of the last layer added to the map
+ </summary>
+	<param name="map">name of map control</param>
+	<remarks>after executing this sub proceedure, the return value is stored in IndexOfSelectedLayer property</remarks>
+</member><member name="M:intelligentMarketing.m_LI.Conver_Region_to_ShortHand(System.String)">
+	<summary>
+ Function that convert long hand Region name into short abbreviation
+ </summary>
+	<param name="Region">eg. Greater Accra</param>
+	<returns>String</returns>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.m_LI.activate_checkbox(System.Windows.Forms.DataGridView,System.Windows.Forms.CheckBox,System.Windows.Forms.CheckBox)">
+	<summary>
+ This activate checkbox
+ </summary>
+	<param name="dgv">name of datagrid</param>
+	<param name="check1">sms check box</param>
+	<param name="check2">email chekc box</param>
+	<remarks>eg activate_checkbox(batch_box,smscheck,emailcheck)</remarks>
+</member><member name="M:intelligentMarketing.m_LI.check_checkbox(System.Windows.Forms.CheckBox,System.Int32,System.Int32,System.Windows.Forms.DataGridView)">
+	<summary>
+ Ticks or untick all checkboxes in the datagrid column
+ </summary>
+	<param name="checkbox">the name of checkbox</param>
+	<param name="column1">the column that contain the checkbox</param>
+	<param name="column2">the column that has to be check before the boxes are checked</param>
+	<param name="dgv"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.DistrictAnalysis.ShapefileAttributePoint(System.Int32)">
+	<summary>
+ Add attribute of point file
+ </summary>
+	<param name="layerIndex"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.DistrictAnalysis.removeIndex">
+	<summary>
+ Function to decrease the index number of the layers added
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.DistrictAnalysis.DisplayAttributeLabel(System.String)">
+	<summary>
+ sub that displays name of shape file attribute table selected
+ in the label lblAttributeName
+ </summary>
+	<param name="attributeName"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.DistrictAnalysis.ShapefileAttribute">
+	<summary>
+ This sub uses to fill the shapefile attribute in the datagrid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.DistrictAnalysis.dgvAttributeTable_CellClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+	<summary>
+ select district base on selection NEW CODE
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:intelligentMarketing.DistrictAnalysis.populate_selected_regions">
+	<summary>
+ Codes that load information into various regions
+ </summary>
+	<remarks></remarks>
+</member><member name="F:intelligentMarketing.Encryption.Hash.Provider.CRC32">
+	<summary>
+ Cyclic Redundancy Check provider, 32-bit
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Hash.Provider.SHA1">
+	<summary>
+ Secure Hashing Algorithm provider, SHA-1 variant, 160-bit
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Hash.Provider.SHA256">
+	<summary>
+ Secure Hashing Algorithm provider, SHA-2 variant, 256-bit
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Hash.Provider.SHA384">
+	<summary>
+ Secure Hashing Algorithm provider, SHA-2 variant, 384-bit
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Hash.Provider.SHA512">
+	<summary>
+ Secure Hashing Algorithm provider, SHA-2 variant, 512-bit
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Hash.Provider.MD5">
+	<summary>
+ Message Digest algorithm 5, 128-bit
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Hash.Provider">
+	<summary>
+ Type of hash; some are security oriented, others are fast and simple
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Hash.#ctor(intelligentMarketing.Encryption.Hash.Provider)">
+	<summary>
+ Instantiate a new hash of the specified type
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Hash.Value">
+	<summary>
+ Returns the previously calculated hash
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Hash.Calculate(System.IO.Stream@)">
+	<summary>
+ Calculates hash on a stream of arbitrary length
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Hash.Calculate(intelligentMarketing.Encryption.Data)">
+	<summary>
+ Calculates hash for fixed length <see cref="T:intelligentMarketing.Encryption.Data"/>
+	</summary>
+</member><member name="M:intelligentMarketing.Encryption.Hash.Calculate(intelligentMarketing.Encryption.Data,intelligentMarketing.Encryption.Data)">
+	<summary>
+ Calculates hash for a string with a prefixed salt value. 
+ A "salt" is random data prefixed to every hashed value to prevent 
+ common dictionary attacks.
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Hash.CalculatePrivate(System.Byte[])">
+	<summary>
+ Calculates hash for an array of bytes
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Hash">
+	<summary>
+ Hash functions are fundamental to modern cryptography. These functions map binary 
+ strings of an arbitrary length to small binary strings of a fixed length, known as 
+ hash values. A cryptographic hash function has the property that it is computationally
+ infeasible to find two distinct inputs that hash to the same value. Hash functions 
+ are commonly used with digital signatures and for data integrity.
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Symmetric.Provider.DES">
+	<summary>
+ The Data Encryption Standard provider supports a 64 bit key only
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Symmetric.Provider.RC2">
+	<summary>
+ The Rivest Cipher 2 provider supports keys ranging from 40 to 128 bits, default is 128 bits
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Symmetric.Provider.Rijndael">
+	<summary>
+ The Rijndael (also known as AES) provider supports keys of 128, 192, or 256 bits with a default of 256 bits
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Symmetric.Provider.TripleDES">
+	<summary>
+ The TripleDES provider (also known as 3DES) supports keys of 128 or 192 bits with a default of 192 bits
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.#ctor(intelligentMarketing.Encryption.Symmetric.Provider,System.Boolean)">
+	<summary>
+ Instantiates a new symmetric encryption object using the specified provider.
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Symmetric.KeySizeBytes">
+	<summary>
+ Key size in bytes. We use the default key size for any given provider; if you 
+ want to force a specific key size, set this property
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Symmetric.KeySizeBits">
+	<summary>
+ Key size in bits. We use the default key size for any given provider; if you 
+ want to force a specific key size, set this property
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Symmetric.Key">
+	<summary>
+ The key used to encrypt/decrypt data
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Symmetric.IntializationVector">
+	<summary>
+ Using the default Cipher Block Chaining (CBC) mode, all data blocks are processed using
+ the value derived from the previous block; the first data block has no previous data block
+ to use, so it needs an InitializationVector to feed the first block
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.RandomInitializationVector">
+	<summary>
+ generates a random Initialization Vector, if one was not provided
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.RandomKey">
+	<summary>
+ generates a random Key, if one was not provided
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.ValidateKeyAndIv(System.Boolean)">
+	<summary>
+ Ensures that _crypto object has valid Key and IV
+ prior to any attempt to encrypt/decrypt anything
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Encrypt(intelligentMarketing.Encryption.Data,intelligentMarketing.Encryption.Data)">
+	<summary>
+ Encrypts the specified Data using provided key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Encrypt(intelligentMarketing.Encryption.Data)">
+	<summary>
+ Encrypts the specified Data using preset key and preset initialization vector
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Encrypt(System.IO.Stream,intelligentMarketing.Encryption.Data,intelligentMarketing.Encryption.Data)">
+	<summary>
+ Encrypts the stream to memory using provided key and provided initialization vector
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Encrypt(System.IO.Stream,intelligentMarketing.Encryption.Data)">
+	<summary>
+ Encrypts the stream to memory using specified key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Encrypt(System.IO.Stream)">
+	<summary>
+ Encrypts the specified stream to memory using preset key and preset initialization vector
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Decrypt(intelligentMarketing.Encryption.Data,intelligentMarketing.Encryption.Data)">
+	<summary>
+ Decrypts the specified data using provided key and preset initialization vector
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Decrypt(System.IO.Stream,intelligentMarketing.Encryption.Data)">
+	<summary>
+ Decrypts the specified stream using provided key and preset initialization vector
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Decrypt(System.IO.Stream)">
+	<summary>
+ Decrypts the specified stream using preset key and preset initialization vector
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Symmetric.Decrypt(intelligentMarketing.Encryption.Data)">
+	<summary>
+ Decrypts the specified data using preset key and preset initialization vector
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Symmetric">
+	<summary>
+ Symmetric encryption uses a single key to encrypt and decrypt. 
+ Both parties (encryptor and decryptor) must share the same secret key.
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.LoadFromConfig">
+	<summary>
+ Load public key from App.config or Web.config file
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.ToConfigSection">
+	<summary>
+ Returns *.config file XML section representing this public key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.ExportToConfigFile(System.String)">
+	<summary>
+ Writes the *.config file representation of this public key to a file
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.LoadFromXml(System.String)">
+	<summary>
+ Loads the public key from its XML string
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.ToParameters">
+	<summary>
+ Converts this public key to an RSAParameters object
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.ToXml">
+	<summary>
+ Converts this public key to its XML string representation
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PublicKey.ExportToXmlFile(System.String)">
+	<summary>
+ Writes the Xml representation of this public key to a file
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Asymmetric.PublicKey">
+	<summary>
+ Represents a public encryption key. Intended to be shared, it 
+ contains only the Modulus and Exponent.
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.LoadFromConfig">
+	<summary>
+ Load private key from App.config or Web.config file
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.ToParameters">
+	<summary>
+ Converts this private key to an RSAParameters object
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.ToConfigSection">
+	<summary>
+ Returns *.config file XML section representing this private key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.ExportToConfigFile(System.String)">
+	<summary>
+ Writes the *.config file representation of this private key to a file
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.LoadFromXml(System.String)">
+	<summary>
+ Loads the private key from its XML string
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.ToXml">
+	<summary>
+ Converts this private key to its XML string representation
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.PrivateKey.ExportToXmlFile(System.String)">
+	<summary>
+ Writes the Xml representation of this private key to a file
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Asymmetric.PrivateKey">
+	<summary>
+ Represents a private encryption key. Not intended to be shared, as it 
+ contains all the elements that make up the key.
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.#ctor">
+	<summary>
+ Instantiates a new asymmetric encryption session using the default key size; 
+ this is usally 1024 bits
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.#ctor(System.Int32)">
+	<summary>
+ Instantiates a new asymmetric encryption session using a specific key size
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.KeyContainerName">
+	<summary>
+ Sets the name of the key container used to store this key on disk; this is an 
+ unavoidable side effect of the underlying Microsoft CryptoAPI. 
+ </summary>
+	<remarks>
+ http://support.microsoft.com/default.aspx?scid=http://support.microsoft.com:80/support/kb/articles/q322/3/71.asp&amp;NoWebContent=1
+ </remarks>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.KeySizeBits">
+	<summary>
+ Returns the current key size, in bits
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.KeySizeMaxBits">
+	<summary>
+ Returns the maximum supported key size, in bits
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.KeySizeMinBits">
+	<summary>
+ Returns the minimum supported key size, in bits
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.KeySizeStepBits">
+	<summary>
+ Returns valid key step sizes, in bits
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.DefaultPublicKey">
+	<summary>
+ Returns the default public key as stored in the *.config file
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Asymmetric.DefaultPrivateKey">
+	<summary>
+ Returns the default private key as stored in the *.config file
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.GenerateNewKeyset(intelligentMarketing.Encryption.Asymmetric.PublicKey@,intelligentMarketing.Encryption.Asymmetric.PrivateKey@)">
+	<summary>
+ Generates a new public/private key pair as objects
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.GenerateNewKeyset(System.String@,System.String@)">
+	<summary>
+ Generates a new public/private key pair as XML strings
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.Encrypt(intelligentMarketing.Encryption.Data)">
+	<summary>
+ Encrypts data using the default public key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.Encrypt(intelligentMarketing.Encryption.Data,intelligentMarketing.Encryption.Asymmetric.PublicKey)">
+	<summary>
+ Encrypts data using the provided public key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.Encrypt(intelligentMarketing.Encryption.Data,System.String)">
+	<summary>
+ Encrypts data using the provided public key as XML
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.Decrypt(intelligentMarketing.Encryption.Data)">
+	<summary>
+ Decrypts data using the default private key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.Decrypt(intelligentMarketing.Encryption.Data,intelligentMarketing.Encryption.Asymmetric.PrivateKey)">
+	<summary>
+ Decrypts data using the provided private key
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.Decrypt(intelligentMarketing.Encryption.Data,System.String)">
+	<summary>
+ Decrypts data using the provided private key as XML
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Asymmetric.GetRSAProvider">
+	<summary>
+ gets the default RSA provider using the specified key size; 
+ note that Microsoft's CryptoAPI has an underlying file system dependency that is unavoidable
+ </summary>
+	<remarks>
+ http://support.microsoft.com/default.aspx?scid=http://support.microsoft.com:80/support/kb/articles/q322/3/71.asp&amp;NoWebContent=1
+ </remarks>
+</member><member name="T:intelligentMarketing.Encryption.Asymmetric">
+	<summary>
+ Asymmetric encryption uses a pair of keys to encrypt and decrypt.
+ There is a "public" key which is used to encrypt. Decrypting, on the other hand, 
+ requires both the "public" key and an additional "private" key. The advantage is 
+ that people can send you encrypted messages without being able to decrypt them.
+ </summary>
+	<remarks>
+ The only provider supported is the <see cref="T:System.Security.Cryptography.RSACryptoServiceProvider"/>
+	</remarks>
+</member><member name="F:intelligentMarketing.Encryption.Data.DefaultEncoding">
+	<summary>
+ Determines the default text encoding across ALL Data instances
+ </summary>
+</member><member name="F:intelligentMarketing.Encryption.Data.Encoding">
+	<summary>
+ Determines the default text encoding for this Data instance
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.#ctor">
+	<summary>
+ Creates new, empty encryption data
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.#ctor(System.Byte[])">
+	<summary>
+ Creates new encryption data with the specified byte array
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.#ctor(System.String)">
+	<summary>
+ Creates new encryption data with the specified string; 
+ will be converted to byte array using default encoding
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.#ctor(System.String,System.Text.Encoding)">
+	<summary>
+ Creates new encryption data using the specified string and the 
+ specified encoding to convert the string to a byte array.
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.IsEmpty">
+	<summary>
+ returns true if no data is present
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.StepBytes">
+	<summary>
+ allowed step interval, in bytes, for this data; if 0, no limit
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.StepBits">
+	<summary>
+ allowed step interval, in bits, for this data; if 0, no limit
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.MinBytes">
+	<summary>
+ minimum number of bytes allowed for this data; if 0, no limit
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.MinBits">
+	<summary>
+ minimum number of bits allowed for this data; if 0, no limit
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.MaxBytes">
+	<summary>
+ maximum number of bytes allowed for this data; if 0, no limit
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.MaxBits">
+	<summary>
+ maximum number of bits allowed for this data; if 0, no limit
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.Bytes">
+	<summary>
+ Returns the byte representation of the data; 
+ This will be padded to MinBytes and trimmed to MaxBytes as necessary!
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.Text">
+	<summary>
+ Sets or returns text representation of bytes using the default text encoding
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.Hex">
+	<summary>
+ Sets or returns Hex string representation of this data
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.Base64">
+	<summary>
+ Sets or returns Base64 string representation of this data
+ </summary>
+</member><member name="P:intelligentMarketing.Encryption.Data.Base32">
+	<summary>
+ Sets or returns Base32 string representation of this data
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.ToString">
+	<summary>
+ Returns text representation of bytes using the default text encoding
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.ToBase64">
+	<summary>
+ returns Base64 string representation of this data
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.ToBase32">
+	<summary>
+ returns Base32 string representation of this data
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Data.ToHex">
+	<summary>
+ returns Hex string representation of this data
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Data">
+	<summary>
+ represents Hex, Byte, Base64, or String data to encrypt/decrypt;
+ use the .Text property to set/get a string representation 
+ use the .Hex property to set/get a string-based Hexadecimal representation 
+ use the .Base64 to set/get a string-based Base64 representation 
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Utils.ToHex(System.Byte[])">
+	<summary>
+ converts an array of bytes to a string Hex representation
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Utils.FromHex(System.String)">
+	<summary>
+ converts from a string Hex representation to an array of bytes
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Utils.FromBase64(System.String)">
+	<summary>
+ converts from a string Base64 representation to an array of bytes
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Utils.ToBase64(System.Byte[])">
+	<summary>
+ converts from an array of bytes to a string Base64 representation
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Utils.GetXmlElement(System.String,System.String)">
+	<summary>
+ retrieve an element from an XML string
+ </summary>
+</member><member name="M:intelligentMarketing.Encryption.Utils.GetConfigString(System.String,System.Boolean)">
+	<summary>
+ Returns the specified string value from the application .config file
+ </summary>
+</member><member name="T:intelligentMarketing.Encryption.Utils">
+	<summary>
+ Friend class for shared utility methods used by multiple Encryption classes
+ </summary>
+</member>
+</members>
+</doc>

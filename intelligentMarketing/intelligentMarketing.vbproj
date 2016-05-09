@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A71A0132-6E13-48AB-96DB-02DEB33F6772}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>intelligentMarketing.SMS_sender</StartupObject>
+    <RootNamespace>intelligentMarketing</RootNamespace>
+    <AssemblyName>intelligentMarketing</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>intelligentMarketing.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>intelligentMarketing.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BruTile, Version=0.5.1.0, Culture=neutral, PublicKeyToken=00e75fd79e391f40, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\googleMap dll\BruTile.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Controls">
+      <HintPath>..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Controls.BruTileLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bd5ca4b760779a42, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\googleMap dll\DotSpatial.Controls.BruTileLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data.Forms">
+      <HintPath>..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Data.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections">
+      <HintPath>..\..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Projections.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections.Forms">
+      <HintPath>..\..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Projections.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Serialization">
+      <HintPath>..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology, Version=0.11.9.6, Culture=neutral, PublicKeyToken=6178c08da7998387, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Symbology.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology.Forms">
+      <HintPath>..\..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Symbology.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Topology">
+      <HintPath>..\..\Documents\Visual Studio 2010\Projects\MAP WINDOW\DotSpatial 1.4 Extended\bin\DotSpatial.Topology.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel">
+      <HintPath>..\Adroit Urgent\2.1.beta.binary\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MapWindow">
+      <HintPath>..\..\..\..\..\..\programming\MAPWINDOW\MapWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="MdiTabControl, Version=1.0.5250.32347, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\iM Bespoke SWL\intelligentMarketing\bin\Release\MdiTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="MdiTabStrip">
+      <HintPath>..\..\..\..\software\MDI Tab Control\mditabstrip_dll\MdiTabStrip.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MPowerPayments">
+      <HintPath>..\mpower_dotnet_latest (1)\Release\MPowerPayments.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\mpower_dotnet_latest (1)\Release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Pervasive.Data.SqlClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=c84cd5c63851e072, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Pervasive Software\PSQL\bin\ADONET4.0\Pervasive.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control Panel1.Designer.vb">
+      <DependentUpon>Control Panel1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Control Panel1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location Intelligence\Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location Intelligence\Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location Intelligence\validation.Designer.vb">
+      <DependentUpon>validation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location Intelligence\validation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location Intelligence\m_LI.vb" />
+    <Compile Include="Security\Base32.vb" />
+    <Compile Include="Security\Encryption.vb" />
+    <Compile Include="Security\KeyDec.vb" />
+    <Compile Include="Security\LicKey.vb" />
+    <Compile Include="Security\Module1.vb" />
+    <Compile Include="Settings\frmDataValidation.Designer.vb">
+      <DependentUpon>frmDataValidation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmDataValidation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmEditTownName.Designer.vb">
+      <DependentUpon>frmEditTownName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmEditTownName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\Locations Data Validation.Designer.vb">
+      <DependentUpon>Locations Data Validation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\Locations Data Validation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Webforms\Number Formatter.Designer.vb">
+      <DependentUpon>Number Formatter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Webforms\Number Formatter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Digital Marketing\Send_Email.vb" />
+    <Compile Include="Location Intelligence\District Drilll Downvb.Designer.vb">
+      <DependentUpon>District Drilll Downvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location Intelligence\District Drilll Downvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location Intelligence\DistricAnalysis.Designer.vb">
+      <DependentUpon>DistricAnalysis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location Intelligence\DistricAnalysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location Intelligence\LocationIntelligence.designer.vb">
+      <DependentUpon>LocationIntelligence.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location Intelligence\LocationIntelligence.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intelligent_Marketing_SchemaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Intelligent_Marketing_SchemaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Intelligent_Marketing_SchemaDataSet.vb">
+      <DependentUpon>Intelligent_Marketing_SchemaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Location Intelligence\Regional Drill-Down.Designer.vb">
+      <DependentUpon>Regional Drill-Down.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location Intelligence\Regional Drill-Down.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\Form1.designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\settings.Designer.vb">
+      <DependentUpon>settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS sender.Designer.vb">
+      <DependentUpon>SMS sender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SMS sender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Digital Marketing\Sms.Designer.vb">
+      <DependentUpon>Sms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Digital Marketing\Sms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUPREME.vb" />
+    <Compile Include="Business Intelligence\SWL Customer Dashboard.Designer.vb">
+      <DependentUpon>SWL Customer Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Business Intelligence\SWL Customer Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Webforms\Pervasive Connection.Designer.vb">
+      <DependentUpon>Pervasive Connection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Webforms\Pervasive Connection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Business Intelligence\BusinessIntelligence_Report1.rdlc" />
+    <EmbeddedResource Include="Business Intelligence\Contacts Database.rdlc" />
+    <EmbeddedResource Include="Control Panel1.resx">
+      <DependentUpon>Control Panel1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location Intelligence\Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location Intelligence\validation.resx">
+      <DependentUpon>validation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmDataValidation.resx">
+      <DependentUpon>frmDataValidation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmEditTownName.resx">
+      <DependentUpon>frmEditTownName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\Locations Data Validation.resx">
+      <DependentUpon>Locations Data Validation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Webforms\Number Formatter.resx">
+      <DependentUpon>Number Formatter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location Intelligence\District Drilll Downvb.resx">
+      <DependentUpon>District Drilll Downvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location Intelligence\DistricAnalysis.resx">
+      <DependentUpon>DistricAnalysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location Intelligence\LocationIntelligence.resx">
+      <DependentUpon>LocationIntelligence.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location Intelligence\Regional Drill-Down.resx">
+      <DependentUpon>Regional Drill-Down.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Settings\settings.resx">
+      <DependentUpon>settings.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS sender.resx">
+      <DependentUpon>SMS sender.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Digital Marketing\Sms.resx">
+      <DependentUpon>Sms.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Intelligence\SWL Customer Dashboard.resx">
+      <DependentUpon>SWL Customer Dashboard.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Webforms\Pervasive Connection.resx">
+      <DependentUpon>Pervasive Connection.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Intelligent_Marketing_SchemaDataSet.xsc">
+      <DependentUpon>Intelligent_Marketing_SchemaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Intelligent_Marketing_SchemaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Intelligent_Marketing_SchemaDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Intelligent_Marketing_SchemaDataSet.xss">
+      <DependentUpon>Intelligent_Marketing_SchemaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\SWL Logo.png" />
+    <None Include="Resources\attribute.png" />
+    <None Include="Resources\icon_error.gif" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\sync.png" />
+    <None Include="Resources\Capture.PNG" />
+    <None Include="Resources\analysis-icon.png" />
+    <None Include="Resources\globe.png" />
+    <None Include="Resources\addons-icon.png" />
+    <None Include="Resources\attribute1.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\BiLogo.png" />
+    <None Include="Resources\system_config_services.png" />
+    <None Include="Resources\stats.png" />
+    <None Include="Resources\layer.jpg" />
+    <None Include="Resources\bg1.png" />
+    <None Include="Resources\smsLogo.png" />
+    <None Include="Resources\LiLogo.png" />
+    <None Include="Resources\attribute2.png" />
+    <None Include="Resources\debLogo.png" />
+    <None Include="Resources\BiLogo35x35.png" />
+    <None Include="Resources\BiLogo28x28.png" />
+    <None Include="Resources\li1.png" />
+    <None Include="Resources\BiLogo3.png" />
+    <None Include="Resources\BiLogo2.png" />
+    <None Include="Resources\li11.png" />
+    <None Include="Resources\li2.png" />
+    <None Include="Resources\smsLogo2.png" />
+    <None Include="Resources\debLogo2.png" />
+    <None Include="Resources\logo1.png" />
+    <None Include="Resources\logo2.png" />
+    <Content Include="TextFile1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VAccessLib">
+      <Guid>{47E7B6C9-8256-11CF-AB56-0000C04D1EB9}</Guid>
+      <VersionMajor>7</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

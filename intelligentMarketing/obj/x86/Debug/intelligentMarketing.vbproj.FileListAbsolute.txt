@@ -1,0 +1,34 @@
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\bin\Debug\intelligentMarketing.exe
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\bin\Debug\intelligentMarketing.pdb
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\bin\Debug\intelligentMarketing.xml
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.Login.resources
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.Resources.resources
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.exe
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.xml
+c:\users\stylish\documents\visual studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.pdb
+C:\Users\Stylish\Documents\Visual Studio 2010\Projects\intelligentMarketing\intelligentMarketing\bin\Debug\MdiTabControl.dll
+C:\Users\Stylish\Documents\Visual Studio 2010\Projects\intelligentMarketing\intelligentMarketing\bin\Debug\MdiTabStrip.dll
+C:\Users\Stylish\Documents\Visual Studio 2010\Projects\intelligentMarketing\intelligentMarketing\bin\Debug\MdiTabControl.pdb
+C:\Users\Stylish\Documents\Visual Studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.SMS_sender.resources
+C:\Users\Stylish\Documents\Visual Studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.Sms.resources
+C:\Users\Stylish\Documents\Visual Studio 2010\Projects\intelligentMarketing\intelligentMarketing\obj\x86\Debug\intelligentMarketing.settings.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.exe
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.Login.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.Resources.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.settings.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.SMS_sender.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\intelligentMarketing.Sms.resources
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Debug\intelligentMarketing.exe
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Debug\intelligentMarketing.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Debug\intelligentMarketing.xml
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Debug\MdiTabControl.dll
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Debug\MdiTabControl.pdb
+C:\Users\TRIUMPH\Desktop\intelligentMarketing\bin\Debug\intelligentMarketing.exe.config
